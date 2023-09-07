@@ -12,21 +12,21 @@ git clone https://github.com/your-username/github-user-info-test.git
 
 ```
 
-1. Wechseln Sie in das Projektverzeichnis:
+2. Wechseln Sie in das Projektverzeichnis:
 
 ```bash
 cd github-user-info-test
 
 ```
 
-1. Installieren Sie die erforderlichen Abhängigkeiten:
+3. Installieren Sie die erforderlichen Abhängigkeiten:
 
 ```bash
 npm install
 
 ```
 
-1. Starten Sie die Anwendung:
+4. Starten Sie die Anwendung:
 
 ```bash
 npm start
