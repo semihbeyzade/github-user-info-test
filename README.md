@@ -7,23 +7,31 @@ Diese einfache React-Anwendung verwendet die GitHub API, um Informationen zu Git
 
 1. Klonen Sie das Projekt auf Ihren Computer:
 
+```bash
+git clone https://github.com/your-username/github-user-info-test.git
+
 ```
-git clone https://github.com/your-username/github-user-info-test.git```
 
 1. Wechseln Sie in das Projektverzeichnis:
 
+```bash
+cd github-user-info-test
+
 ```
-cd github-user-info-test```
 
 1. Installieren Sie die erforderlichen Abhängigkeiten:
 
+```bash
+npm install
+
 ```
-npm install```
 
 1. Starten Sie die Anwendung:
 
+```bash
+npm start
+
 ```
-npm start```
 
 * Öffnen Sie Ihren Browser und gehen Sie zu http://localhost:3000, um die Anwendung zu nutzen.
 
